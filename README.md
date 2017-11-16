@@ -16,6 +16,9 @@ This schema will get you started:
 I did not use the connector on the right, this is used for a oled screen.
 I did plan to use the LED, but it isn't implemented in code right now.
 
+Result in MQTT lens:
+![MQTTLens](https://raw.githubusercontent.com/Johnwulp/esp8266_P1_MQTT/master/mqttlensresult.jpg)
+
 # BOM
 T1 - BC547
 
